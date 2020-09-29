@@ -89,10 +89,10 @@ Inputs
 Time for solution
 --
 
-approx 5 seconds for map generation
-1 second for solution
-2 seconds for visited and backtracked maps
-<10 seconds for quiver plot
+approx 5 seconds for map generation<br/>
+1 second for solution<br/><br/>
+2 seconds for visited and backtracked maps<br/>
+<10 seconds for quiver plot<br/>
 
 Inputs
 --
@@ -108,18 +108,19 @@ Inputs
 Time for solution
 --
 
-approx 5 seconds for map generation
-1 second for solution
-2 seconds for visited and backtracked maps
-<10 seconds for quiver plot
+approx 5 seconds for map generation<br/>
+1 second for solution<br/>
+2 seconds for visited and backtracked maps<br/>
+<10 seconds for quiver plot<br/>
 
 After Reaching the goal, the backtracking will commence.
-Once the backtracking is complete the following sets of outputs are given out:
-Image of the obstacles (OpenCV)
-Animation showing the visited nodes and the backtracked path (using pygame)
-Graph plot showing path of solution (MatplotLib)
-Image of the visited nodes (OpenCV)
-Image of backtracked path (OpenCV)
-Graph plot showing quiver plot(MatplotLib)
+
+	Once the backtracking is complete the following sets of outputs are given out:
+	Image of the obstacles (OpenCV)
+	Animation showing the visited nodes and the backtracked path (using pygame)
+	Graph plot showing path of solution (MatplotLib)
+	Image of the visited nodes (OpenCV)
+	Image of backtracked path (OpenCV)
+	Graph plot showing quiver plot(MatplotLib)
 
 
