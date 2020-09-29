@@ -90,7 +90,7 @@ Time for solution
 --
 
 approx 5 seconds for map generation<br/>
-1 second for solution<br/><br/>
+1 second for solution<br/>
 2 seconds for visited and backtracked maps<br/>
 <10 seconds for quiver plot<br/>
 
